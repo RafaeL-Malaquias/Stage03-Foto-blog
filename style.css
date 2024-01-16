@@ -10,10 +10,10 @@
         font-size: 62.5%;
 
     --color-base-white: #fff;
-    --color-base-gray-100: #f5f5f5;
-    --color-base-gray-300: #8d8d99;
-    ---color-base-gray-500:#3D3D3D;
-    --color-base-gray-900: #202024;
+    --color-base-gray-100: hsl(0, 0%, 96%);
+    --color-base-gray-300: hsl(240, 6%, 58%);
+    ---color-base-gray-500:hwb(0 24% 76%);
+    --color-base-gray-900: hsl(240, 6%, 13%);
 
     font-family: 'Mulish', sans-serif;
 }
