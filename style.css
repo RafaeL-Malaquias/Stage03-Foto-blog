@@ -136,6 +136,7 @@ main h1 {
     filter: hue-rotate(7deg) contrast(101%) saturate(200%);
     transform: scale(1.1) rotate(-2deg);
 }
+
 .details {
     padding: 2.2rem ;
 }
